@@ -3,6 +3,7 @@ this is where my c# journey willl be documented
 ## completed
 ### beginner
 - number guessing game
+- age calculator 
 ## ongoing 
 ### beginner
 - calculator
