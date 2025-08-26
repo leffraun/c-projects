@@ -7,4 +7,4 @@ this is where my c# journey willl be documented
 - quiz (v1)
 ## ongoing 
 ### beginner
-- calculator
+- password generator (v1)
