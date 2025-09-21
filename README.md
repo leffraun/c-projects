@@ -7,6 +7,7 @@ this is where my c# journey willl be documented
 - quiz (v1)
  ### intermediate
  - expense tracker (v1)
+ - quiz (v1)
 ## ongoing 
 ### beginner
 - password generator (v1)
